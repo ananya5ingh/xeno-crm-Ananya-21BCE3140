@@ -6,11 +6,13 @@ Features
 - Customer Management: Add customers with details such as name, email, and phone.
 - Order Management: Add orders linked to specific customers, while updating total spending and visit count.
 - Data Persistence: Stores customer and order data in a MySQL database.
+  
 Technologies Used
 - Backend: Node.js with Express.js
 - Database: MySQL
 - Unique IDs: uuid package for generating unique identifiers
 - API Testing: Postman for sending requests and testing responses
+  
 Prerequisites
 - Install Node.js (v20.4 or higher recommended)
 - Install MySQL (v8.0.40 or higher recommended)
