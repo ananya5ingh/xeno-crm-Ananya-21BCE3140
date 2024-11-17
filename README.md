@@ -43,5 +43,6 @@ Run and Test
 - Verify data is stored and updated in the database using SQL queries.
   
 *Acknowledgments*
+
 Thanks for the opportunity to work on this project. This implementation demonstrates core CRM functionalities and can be extended further for enhanced features.
 
